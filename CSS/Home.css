@@ -1,0 +1,31 @@
+header{
+    background-color:#1b1b1b;
+    position: fixed;
+    width:100%;
+    height: 10vh;
+}
+
+home{
+    background-color:#1b1b1b;
+    display:block;
+    width:100%;
+    height:100vh;
+    border-top:3px solid #ffffff;
+    border-left:3px solid #ffffff;
+    border-right:3px solid #ffffff;
+}
+
+logo img{
+    width: 5%;
+    padding-left:5%;
+}
+
+home p{
+    display:block;
+    color:#ffffff;
+    font-family:'Arial Narrow Bold', sans-serif;
+    padding-top:11%;
+    font-size:48px;
+    padding-bottom:11%;
+    padding-left:5%;
+}
